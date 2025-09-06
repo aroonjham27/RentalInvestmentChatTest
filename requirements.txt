@@ -1,0 +1,12 @@
+streamlit
+nbformat
+langchain
+langgraph
+langchain-core
+groq
+pandas
+numpy
+scikit-learn
+beautifulsoup4
+lxml
+requests
